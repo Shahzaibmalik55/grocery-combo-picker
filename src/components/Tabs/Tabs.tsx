@@ -21,9 +21,10 @@ export const Tabs = ({
   onTabClick,
 }: TabsProps) => {
   return (
-    <div className="tabs">
+    <div className="tabs" data-testid="tabs">
       {list.map((item) => (
         <button
+          data-testid="tabs-buttons"
           key={item.id}
           className={selectedTabId === item.id ? "active" : ""}
           onClick={() => onTabClick(item)}

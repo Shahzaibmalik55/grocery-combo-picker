@@ -58,7 +58,7 @@ const categoriesSlice = createSlice({
   },
 });
 
-const {
+export const {
   setSelectedCategory,
   setCategoriesInProgress,
   setCategoriesError,

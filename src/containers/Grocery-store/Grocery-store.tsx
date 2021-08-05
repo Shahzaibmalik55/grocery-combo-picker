@@ -23,7 +23,7 @@ export const GroceryStore = () => {
     items,
     selectedItems,
     isFetching: fetchingItems,
-  } = useSelector((state: RootState) => state.grocery);
+  } = useSelector((state: RootState) => state.items);
 
   const {
     categories,

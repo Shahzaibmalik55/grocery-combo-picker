@@ -84,13 +84,10 @@ export const fetchItems =
           "Content-Type": "application/json",
           Accept: "application/json",
         },
-      })
-        .then(function (response) {
-          return response.json();
-        })
-        .then(function (data) {
-          dispatch(setItems({ data }));
-        });
+      }).then(async (response) => {
+        const data = await response.json();
+        dispatch(setItems({ data }));
+      });
     } catch (error) {
       dispatch(setItemsError({ error }));
     }
