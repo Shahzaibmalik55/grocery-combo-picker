@@ -1,0 +1,163 @@
+[
+    {
+        "id": 0,
+        "name": "Lays Salted",
+        "comboIds": [
+            1
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 0,
+        "name": "Lays",
+        "comboIds": [
+            1
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 1,
+        "name": "Slims",
+        "comboIds": [
+            2
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 2,
+        "name": "Potatoe Sticks",
+        "comboIds": [
+            3
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 3,
+        "name": "Slanty",
+        "comboIds": [
+            4
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 4,
+        "name": "Wavy",
+        "comboIds": [
+            5
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 5,
+        "name": "Chitos",
+        "comboIds": [
+            6
+        ],
+        "category": "chips"
+    },
+    {
+        "id": 6,
+        "name": "Pepsi",
+        "comboIds": [
+            1
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 7,
+        "name": "7up",
+        "comboIds": [
+            2
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 8,
+        "name": "Marinda",
+        "comboIds": [
+            3
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 9,
+        "name": "Coke",
+        "comboIds": [
+            4
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 10,
+        "name": "Sprite",
+        "comboIds": [
+            5
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 11,
+        "name": "String",
+        "comboIds": [
+            6
+        ],
+        "category": "drinks"
+    },
+    {
+        "id": 12,
+        "name": "Cadbury",
+        "comboIds": [
+            1
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 13,
+        "name": "Perk",
+        "comboIds": [
+            2
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 14,
+        "name": "Now",
+        "comboIds": [
+            3
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 15,
+        "name": "Snickers",
+        "comboIds": [
+            4
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 16,
+        "name": "Bounty",
+        "comboIds": [
+            5
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 17,
+        "name": "Dairy Milk",
+        "comboIds": [
+            6,
+            1
+        ],
+        "category": "chocolate"
+    },
+    {
+        "id": 18,
+        "name": "Mars",
+        "comboIds": [
+            6
+        ],
+        "category": "chocolate"
+    }
+]
