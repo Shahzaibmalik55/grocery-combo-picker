@@ -19,13 +19,13 @@ export const ItemsSampleData: Item[] = [
     comboIds: [1, 2],
   },
   {
-    id: 0,
+    id: 1,
     name: "Coke",
     category: Categories.DRINKS,
     comboIds: [1, 2],
   },
   {
-    id: 0,
+    id: 2,
     name: "Cadbury",
     category: Categories.CHOCOLATE,
     comboIds: [1, 2],

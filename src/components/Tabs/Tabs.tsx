@@ -1,4 +1,3 @@
-import React from "react";
 import { OnClick, SelectedItems } from "../../types";
 import "./Tabs.css";
 

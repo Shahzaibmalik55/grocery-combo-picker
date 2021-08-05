@@ -1,4 +1,3 @@
-import React from "react";
 import { SelectedItems } from "../../types";
 
 export interface PickedItemsProps {
@@ -7,7 +6,7 @@ export interface PickedItemsProps {
 
 export const PickedItems = ({ selectedItems }: PickedItemsProps) => {
   const Items = Object.keys(selectedItems).map((key) => (
-    <p className="pickedItem">
+    <p className="pickedItem" key={key}>
       <b>{key.toUpperCase()}:</b>
       <span>
         {selectedItems[key] ? selectedItems[key]?.name : "Not Selected"}

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { ItemList } from "../../components/Item-list/Item-list";
 import { PickedItems } from "../../components/Picked-items/Picked-items";

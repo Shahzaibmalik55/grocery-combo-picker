@@ -1,4 +1,3 @@
-import React from "react";
 import { Category, Item, OnClick, SelectedItems } from "../../types";
 
 export interface ItemListProps {
