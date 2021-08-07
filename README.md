@@ -14,8 +14,8 @@ Combo Picker of Grocery Items.
 
 ## Installation and use
 
-- Clone Project
-- Run `npm install`
+- Clone project run `git clone https://github.com/Shahzaibmalik55/grocery-combo-picker.git`
+- Run `yarn install`
 - Run `npm start`
 
 ## Project Structure
